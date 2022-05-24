@@ -12,7 +12,7 @@ function getRandNumbers(min, max, length) {
     }
     return arrNum;
   }
-  console.log(getRandNumbers(4, 10, 4));
+  console.log(getRandNumbers(1, 4, 4));
 //for--lấy ra phần tử
 var myCar = [
     'Rolls Royce Sweptail',
